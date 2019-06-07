@@ -8,7 +8,7 @@ def "fizzbuzz".to i
     "fizz"
   elsif 
     i % 5 == 0 
-    "Buzz"
+    "buzz"
   else
     nil 
   end
