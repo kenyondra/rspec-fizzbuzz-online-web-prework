@@ -4,7 +4,7 @@ def "fizzbuzz".to i
   if i % 3 == i % 5==0 
     "fizzbuzz"
   elsif 
-  i % 3 == 0 
+    i % 3 == 0 
     "Fizz"
   elsif int % 5 == 0 
     "Buzz"
